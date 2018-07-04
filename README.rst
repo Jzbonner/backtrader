@@ -1,5 +1,5 @@
 
-backtrader
+backtrader ~ (Jarrett Bonner) 
 ==========
 
 .. image:: https://img.shields.io/pypi/v/backtrader.svg
